@@ -1,0 +1,42 @@
+a:hover {
+        background-color: red;
+      }
+      .container-fluid{
+        height: 500px;
+        background-image: url(/img/mike-hindle-ih9JxavpVB8-unsplash.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+      }
+      
+       .box:hover
+      {
+        background-color: red;
+        color: white;
+        transition: 0.5s;
+        transform: scale(1.1);
+      } 
+      .sec2{
+        height: 350px;
+        background-image: url(/img/bg.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    .box1{
+      border: 2px solid black;
+      margin-bottom: 40%;
+    }
+    #ser,#tee,#con,#por,#pri {
+      text-align: center;
+      font-size:30px;
+      font-weight: bolder;
+      position: relative;
+      z-index: 2;
+      top: 25px;
+      opacity: 300px;
+      letter-spacing: 15px;
+      color: rgb(168, 153, 153);
+      
+    }
+
+  
